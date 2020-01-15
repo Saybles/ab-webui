@@ -1,0 +1,2 @@
+[webui_servers]
+webui ansible_host=192.168.255.103 ansible_user=vagrant ansible_ssh_private_key_file=../vagrant/.ssh/vagrant_rsa
